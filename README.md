@@ -40,8 +40,9 @@ This tool allows you to upload a CSV file and automatically:
 - **LLM Backend**: [Ollama](https://ollama.ai/) with **Mistral-7B**
 
 ---
-
-
+![logo](https://github.com/Shashank-Sen/LLM-Powered-EDA-Tool-/blob/main/EDA%20TOOL/data_visuals/Education_distribution.png)
+---
+![logo](https://github.com/Shashank-Sen/LLM-Powered-EDA-Tool-/blob/main/EDA%20TOOL/data_visuals/DailyRate_distribution.png)
 
 ---
 
